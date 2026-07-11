@@ -66,4 +66,4 @@ fs-frontend/
 ---
 
 ## 👤 Author
-[Your Name]
+Jaipreeth J

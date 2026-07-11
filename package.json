@@ -7,7 +7,7 @@
     "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
     "install-all": "npm install && npm install --prefix backend && npm install --prefix frontend"
   },
-  "author": "[Your Name]",
+  "author": "Jaipreeth J",
   "license": "ISC",
   "dependencies": {
     "concurrently": "^8.2.2"

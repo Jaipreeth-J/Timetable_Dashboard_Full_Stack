@@ -85,4 +85,4 @@ ISC License
 ---
 
 ## 👤 Author
-[Your Name]
+Jaipreeth J

@@ -29,4 +29,4 @@ npm run dev
 - `frontend/` - React application built with Vite.
 
 ## 👤 Author
-[Your Name]
+Jaipreeth J
